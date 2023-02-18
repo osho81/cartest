@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "car-rental-springboot",
+  "private_key_id": "aa0074a88eba69d16863824d52663b4cae49f097",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDjyP3HUxGcpmLy\nky//ueMRRZCDp8jIyMOF77CJkGFbEFSXwE0oEhUPaNYasU3qTrwD2SZgY+ZFG+n3\noV96pjFLD5W26s8W9vPr7FXTyKpuCNKPVHHLfnGmz8jxiX0HiYpFaluf818iY4gQ\n1cxiVfH4YOSK10aCKIKXI5ScBdSzPzaV3MVCkMK0W2dN3DwEIeeCeOWiRVwgRUaV\ncG5gNnfo95qAb81aHSIFQdX7877p4lCxhgalufJukJSymxI7ouBYhGe0Lp95cOM+\n4225Uv6KPw1yiXCostd4DvzF7DLeexsZsKgnvrxforsTc4YeGLO2f8wLbcrZ14CA\nP3ABQYQdAgMBAAECggEAHfUq9UpWTGMwq8USYMBmnfincT1BobCP0H9t2SXJPBQJ\ngBzNOPop1Wk9EW0kuW5p+VqXmsFAwXGSo5wQZd3SKVRPJSu8GUHY4jwmrJAdZBPa\nd3nMbo4+bckxnRyvOizLZ+Y9TyvPpQLwnAA2XW9+v6Mko6L89bTUugJ2ss9sgjdM\nR2WlIXHbqG75EYvDdsp10KJJjdB1B2GbGFuvWiteueUWc6EhD74P5U424lySi40K\nb/Ptgu0b1cIA3vjDpwWASrq6vKrE2YEbs2QTGMV9SLtR78CgdTyYdvSpGmjeXVX1\n14O2KU4grCX9sS5CXLc65+Bd5PQZ1KzST7hN33zhCQKBgQD8Gzo79+66x3YvjrmR\nkqbQusvCqheCgba70qDLT4ho9p37vEdcx33cdYUCbDNMuj5unC8Cj8hkFXpHSxmZ\nFfmvO+GgZV5i+4YZdbCHu84BFp4qRb/e7GWmZJ6fKFYTu9VcU9qt/Mqtru1LrY5V\n2k4EAQwPrFaALtIwxHLNEPU1tQKBgQDnTZpj1gFJS8OHhdjlTxjGkdrqQKB4gmsn\nb0LqPYtGNHKabk4Qr9+546O5NQQ/qT2jT4F9SOoOZI52EM/jM2SeLKL4/F0GmUmv\nIwOGloV8YxMTPmm7njKxRWwDQ17epByYguNnfTWBDZQq2bzl3VmzRvTYZGhYNf6T\nwUaX4ZiVyQKBgEkWu7NXFecgnKr8/d+uXJ53CUvOdDJp2MhrMCLBVBLaLMMmuqmz\nTFH14DHrnJPKCv+WWCqt9LLPZzv0Ed/H9zNOcQNHYC3iLeaDsEIpuHeoTwKCZjYC\n4xVyZmpOD2Z5NkomJWf7uebQqAsgrftF5whSJWUF2a4f5OAuk/nPyMdhAoGAJmjx\noXCRSB2nu6KTcQjggWEJLGtM+pYVuzezsfhEX4UoHtMAba73BQRzVLckHHo7PRpf\n03E/ROKX8a07CGypYcbhzV0DCax82vOCi2AFjLFbIo/zuO89VcjEdgpC/8/a28yo\nfLADKYoat77uqnFGiwnWcPTDixp0Sw8GbQROdVkCgYEAy238AOSA0dUKUPQ6hYAP\nBdsOEhbtsm3+CpgffUdjoCLlgMCjJ0uKv2cSi7PfFmi8xZsEPFVyxsznX7OKo77E\nUXFBfE3P3g/N27MWJK5ugL0kJC1XGTZWCMkJ3pyYRRF621UuvFiymqlk8PMq7kUC\njVPBmZCb30dayIG+ao6vvQA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "car-rental-springboot@appspot.gserviceaccount.com",
+  "client_id": "106914907231576529630",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/car-rental-springboot%40appspot.gserviceaccount.com"
+}
