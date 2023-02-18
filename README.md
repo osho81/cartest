@@ -8,7 +8,7 @@ A Java SpringBoot and MySQL test project to deploy in Google Cloud, more precise
 
 The App is uploaded to Google Cloud Platform, using the App Engine cloud service. 
 The java17 and standard environment configurations can be seen in the yaml-file. 
-Needed pom changes are due to guarantee a jar and start class for the app engine. 
+Needed pom changes are due to jar packaging and determining a start class for the app engine. 
 
 Note that uploaded json-key is invalid, and kept here in the code of pedagogic reasons. 
 
